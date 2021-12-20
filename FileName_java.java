@@ -1,0 +1,6 @@
+Calss A(){
+  
+   methosA()
+     {
+     
+     }
